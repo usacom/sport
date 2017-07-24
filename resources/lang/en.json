@@ -1,0 +1,27 @@
+{
+  "error_birthday" : "This date can not be true",
+  "error_password" : "Incorrect password",
+  "success_updateProfile" : "The profile was successfully updated",
+
+
+  "error_requestFriend":"You can not perform actions with this request",
+  "success_requestFriend--accept":"The user has been added to your list of friends",
+  "success_requestFriend--deny":"user request was rejected",
+
+
+  "error_dialog--404": "Dialog not found",
+  "error_dialog--you-in-dialog": "you are already in dialogue",
+  "error_dialog--empty-message": "Message cannot be empty",
+  "error_dialog--prem":"You cannot add this person",
+  "error_dialog--type":"Type undefined",
+  "error_dialog--note-group":"It is not group",
+
+  "success_dialog--post-message":"Post added",
+  "success_dialog--success-add-user":"User added successfully",
+  "success_dialog--leave-dialog":"You leave dialogue",
+  "success_dialog--come-back-dialog":"You return to dialogue"
+
+
+
+
+}
